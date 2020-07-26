@@ -173,7 +173,7 @@ int test_throughput(lsm* tree, int data_size, int buffer_size, bool sorted, int 
 
 int main(int argc, char* args[]){
 
-  assert(argc >= 5); 
+  // assert(argc >= 5); 
   clock_t start, end;
 
   int r;

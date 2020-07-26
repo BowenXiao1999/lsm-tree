@@ -12,7 +12,7 @@ ids = []
 #########
 ## Specify the index of the action that you want to test 
 #########
-# a = -1
+a = -1
 means = np.zeros([len(data_sizes), len(buffer_sizes)]) 
 stds =  np.zeros([len(data_sizes), len(buffer_sizes)]) 
 
